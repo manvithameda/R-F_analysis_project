@@ -1,0 +1,13 @@
+pandas
+numpy 
+matplotlib 
+seaborn
+wordcloud
+textblob
+scikit-learn
+warnings
+wordninja
+contractions
+scipy
+pickle
+streamlit
